@@ -1,4 +1,4 @@
-﻿# Logs
+# Logs
 logs
 *.log
 
@@ -12,6 +12,7 @@ dist-ssr
 # Env
 .env
 .env.*
+.vercel
 
 # Editor
 .vscode/*
